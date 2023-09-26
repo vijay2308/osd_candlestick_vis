@@ -1,7 +1,7 @@
 {
   "id": "candlestickChart",
-  "version": "2.6.0.0",
-  "opensearchDashboardsVersion": "2.6.0",
+  "version": "2.9.0.0",
+  "opensearchDashboardsVersion": "2.9.0",
   "server": true,
   "ui": true,
   "requiredPlugins": [

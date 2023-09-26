@@ -6,10 +6,10 @@ An OpenSearch Dashboards visulization plugin that provides the capability for cr
 
 ## Installation
 
-The installation command is given for version `2.6.0.0`:
+The installation command is given for version `2.9.0.0`:
 
 ```sh
-bin/opensearch-dashboards-plugin install https://github.com/igsl-group/osd_candlestick_vis/releases/download/2.6.0.0/candlestickChart-2.6.0.zip
+bin/opensearch-dashboards-plugin install https://github.com/igsl-group/osd_candlestick_vis/releases/download/2.9.0.0/candlestickChart-2.9.0.zip
 ```
 
 By running this command, a new visualization `Candlestick Chart` will be available when using the Visualize module in OpenSearch Dashboards.
